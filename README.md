@@ -3,7 +3,7 @@
 
 ### Note
 
-If you use `nodejs`that doesn't support `async/await` you need `sharedb-access@3.0.0`
+
 
 ### Installation
 
